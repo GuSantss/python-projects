@@ -7,9 +7,6 @@ Repositório com projetos desenvolvidos durante meus estudos em Python, focados 
 ### Cadastro Simples
 Sistema básico de cadastro utilizando entrada de dados pelo terminal.
 
-### Caixa Eletrônico
-Simulação de um caixa eletrônico com operações como saque e verificação de saldo.
-
 ### Gerador de Tabuada
 Gera a tabuada de um número informado pelo usuário.
 
