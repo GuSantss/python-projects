@@ -1,3 +1,9 @@
+"""
+Projeto: Gerador de Tabuada
+Autor: Gustavo Santos
+Descrição: Programa em Python que gera a tabuada de um número informado pelo usuário.
+"""
+
 print("-=" * 25)
 print("Gerador De Tabuada".center(50))
 print("-=" * 25)

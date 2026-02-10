@@ -1,3 +1,10 @@
+"""
+Projeto: Sistema de Notas
+Autor: Gustavo Santos
+Descrição: Sistema em Python para cálculo de médias escolares e verificação de aprovação ou reprovação.
+"""
+
+
 nota = 0
 media = 0
 

@@ -1,3 +1,9 @@
+"""
+Projeto: Cadastro Simples
+Autor: Gustavo Santos
+Descrição: Sistema em Python para cadastrar usuários via terminal.
+"""
+
 maior = 0
 mulheres = 0
 maioridade = 0

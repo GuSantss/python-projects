@@ -1,3 +1,10 @@
+"""
+Projeto: Jogo de Adivinhação
+Autor: Gustavo Santos
+Descrição: Jogo em Python onde o usuário deve adivinhar um número gerado aleatoriamente pelo sistema.
+"""
+
+
 from random import randint
 
 computador = randint(1, 10) #computador escolhe um numero aleatorio de 1 a 10
